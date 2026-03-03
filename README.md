@@ -37,3 +37,6 @@
 | **`Sol/Sağ Tık`** | Basılı tutulduğunda aktifleşir |
 
 ---
+
+## 🚀 Kurulum ve Kullanım
+[İndirme sayfasına git](https://github.com/Fearlinn/Macro/releases/tag/v1.0.0)
