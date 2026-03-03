@@ -37,10 +37,3 @@
 | **`Sol/Sağ Tık`** | Basılı tutulduğunda aktifleşir |
 
 ---
-
-## 🚀 Kurulum ve Kullanım
-
-### Geliştiriciler İçin
-1. Depoyu klonlayın:
-   ```bash
-   git clone [https://github.com/KULLANICI_ADIN/REPO_ADIN.git](https://github.com/KULLANICI_ADIN/REPO_ADIN.git)
